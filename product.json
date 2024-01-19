@@ -1,0 +1,35 @@
+ {
+    "products" :[
+      {
+      "id":"p1",
+      "title":" Body Wash",
+      "image":"images/body wash.jpg"
+    },   
+    {
+      "id":"p2",
+      "title":" Engine Wash",
+      "image":"images/engine-wash.jpg"
+    },     
+    {
+      "id":"p3",
+      "title":" Interior Cleaning",
+      "image":"images/interior-cleaning.jpg"
+    },     
+    {
+      "id":"p4",
+      "title":"  Paint Film Protection",
+      "image":"images/film-protection.jpg"
+    },     
+    {
+      "id":"p5",
+      "title":" Headlight Restoration",
+      "image":"images/headlight-restoration.jpg"
+    },     
+    {
+      "id":"p6",
+      "title":" Buffing",
+      "image":"images/buffing.png"
+    }        
+    ]
+  
+  }
